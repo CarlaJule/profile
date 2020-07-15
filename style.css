@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+body {
+  background-color: #f4eeff;
+  font-family: Montserrat;
+  color: #424874;
+  font-size: 20px;
+  line-height:
+  text-align:center;
+
+}
+
+h1 {
+  color: #424874;
+  font-size: 35px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  color: #424874;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+p {
+  color: white;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+a {
+  color: #a6b1e1;
+  text-decoration: none;
+  font-family: Montserrat;
+}
+
+ul{
+  list-style: none;
+  display: inline;
+  display: block;
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  font-size: 40px;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  color: lightgrey;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.card {
+  background: #dcd6f7;
+  padding: 10px;
+  border: 1px solid #dcd6f7;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.1);
+  width: 60%;
+  margin: 30px auto;
+}
+
+.button {
+  background: #424874;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+  margin: 30px auto;
+  text-align: center;
+  width: 150px;
+}
+
+
